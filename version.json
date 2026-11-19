@@ -1,5 +1,5 @@
 {
-  "version": "5.0.1",
+  "version": "5.0.3",
   "releaseNotes": "• Icom IC-7300 & Yaesu Anti-Keying / USB Stability: Isolated DTR/RTS hardware lines so connecting the CAT COM port never keys PTT/CW on Yaesu FT-991A, FTDX10, or Icom IC-7300 rigs, plus continuous CI-V auto-baud wake-up preambles.\n• Yaesu FT-991A, FTDX10, FTDX101MP & FTDX5000 Enhancements: Precision 9-digit/8-digit FA frequency commands, MD0 mode switching, and 1,200ms post-write poll hold.\n• Live COM Port Hot-Plug Detection: Hardware Port dropdown dynamically rescans Windows COM ports when opened.\n• UI & Settings Refinements: Aligned Quick Select Comment tags and streamlined Settings workflow.",
   "downloadUrl": "https://app.gumroad.com/library"
 }
